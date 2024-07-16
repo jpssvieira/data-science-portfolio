@@ -1,6 +1,5 @@
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/minimal # Remove @v0.2.0 unless a specific version is required and available
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
 
 title: João Pedro Vieira
-# theme: jeykll-theme-minimal
