@@ -1,8 +1,10 @@
 # Data Science Portfolio
-Showcasing my projects in Data Science!
+Showcasing my projects in Data Science
 
 ## Introduction
 Welcome to my data science portfolio! This repository contains a collection of my work in AI and data science, demonstrating my skills in data analysis, machine learning, data visualization, and more. Each project includes a brief description, the tools used, and a link to the full project repository or folder.
+
+**Note**: 🚧 **Currently Under Construction!** 🚧 More exciting projects and detailed write-ups are coming soon!
 
 ## Table of Contents
 1. [Project 1: Enhancing Histopathology with AI](#project-1-enhancing-histopathology-with-ai)
