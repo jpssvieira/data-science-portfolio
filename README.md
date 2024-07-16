@@ -33,7 +33,7 @@ Welcome to my data science portfolio! This repository contains a collection of m
 - Extracted and analyzed stock information using the Ticker API.
 - Visualized stock trends using plotting techniques.
 
-**Link to Project**: [Stock Data Webscraping and Analysis](https://github.com/yourusername/data-science-portfolio/tree/main/stock-data-webscraping)
+**Link to Project**: [Stock Data Webscraping and Analysis](https://github.com/jpssvieira/data-science-portfolio/tree/main/stock_analysis))
 
 ## About Me
 I am an Engineer with background in operations management, logistics and process engineering. Dedicated to leveraging data-driven insights to optimize processes and passionate about the transformative potential of AI and machine learning in driving innovation.
