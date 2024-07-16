@@ -1,5 +1,5 @@
 # Data Science Portfolio
-Showcasing my projects in Data Science
+Showcasing my projects in Data Science!
 
 ## Introduction
 Welcome to my data science portfolio! This repository contains a collection of my work in AI and data science, demonstrating my skills in data analysis, machine learning, data visualization, and more. Each project includes a brief description, the tools used, and a link to the full project repository or folder.
