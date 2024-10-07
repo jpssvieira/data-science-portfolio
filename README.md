@@ -8,7 +8,6 @@ Welcome to my data science portfolio! This repository contains a collection of m
 
 ## Table of Contents
 1. [Project 1: Enhancing Histopathology with AI](#project-1-enhancing-histopathology-with-ai)
-2. [Project 2: Stock Data Webscraping and Analysis](#project-2-stock-data-webscraping-and-analysis)
 
 ## Project 1: Enhancing Histopathology with AI
 
@@ -24,18 +23,6 @@ Welcome to my data science portfolio! This repository contains a collection of m
 
 **Link to Project**: [Enhancing Histopathology: CycleGAN-Based Image Generation and Cell Segmentation with HoverNet](https://github.com/Jorge-G-P/IHC_HE_GenAI))
 
-## Project 2: Stock Data Webscraping and Analysis
-
-**Description**: Webscraped stock data and used the Ticker API to extract information and visualize stock trends.
-
-**Tools Used**: Python, Pandas, BeautifulSoup, Ticker API, Matplotlib, Seaborn
-
-**Key Features**:
-- Webscraped stock data from websites.
-- Extracted and analyzed stock information using the Ticker API.
-- Visualized stock trends using plotting techniques.
-
-**Link to Project**: [Stock Data Webscraping and Analysis](https://github.com/jpssvieira/data-science-portfolio/tree/main/stock_analysis))
 
 ## About Me
 I am an Engineer with background in operations management, logistics and process engineering. Dedicated to leveraging data-driven insights to optimize processes and passionate about the transformative potential of AI and machine learning in driving innovation.
